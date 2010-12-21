@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="local_db_sync_required" value="true" />
+<int name="SERVER_VERSION" value="1000" />
+<long name="RESTORE_START_TIME" value="1274634505015" />
+<boolean name="metadata_billing_events_enabled" value="true" />
+<boolean name="metadata_comment_post_enabled" value="true" />
+<long name="last_tickle_id" value="1274791746263" />
+<string name="vending_backup_state">vending</string>
+<string name="vending_tos_version">1.0.0</string>
+<boolean name="metadata_paid_apps_enabled" value="true" />
+<int name="device_configuration_hash" value="100471" />
+<long name="MARKET_LAST_HEARTBEAT_TIMESTAMP" value="1274791741845" />
+<int name="reconciled_version" value="1820" />
+<long name="last_sync_time" value="1274673257401" />
+</map>
