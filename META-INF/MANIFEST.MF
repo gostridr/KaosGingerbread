@@ -38,7 +38,7 @@ Name: sdcard/media/picture/wallpaper/thekraken1.jpg
 SHA1-Digest: wunx96tIMwvDX7qxHRwvvV9IzmI=
 
 Name: system/lib/libaudioeffect_jni.so
-SHA1-Digest: CwtOTDQ583c2i5YoPpXLc+hcPJw=
+SHA1-Digest: ZhdFAZA55+fCZgqbEs06xxrOD0c=
 
 Name: system/app/Browser.apk
 SHA1-Digest: 8bqHLugTnMii7nmsccqj+RJsREQ=
@@ -48,6 +48,9 @@ SHA1-Digest: xl/GcoDa4whhO87ZxZBUi/wvDqk=
 
 Name: system/lib/hw/gralloc.msm7k.so
 SHA1-Digest: a3Uc0ME8eE3GVsOe2MhuS+Uk/SY=
+
+Name: system/lib/libaudio.so
+SHA1-Digest: 6J4wI20YMHxlIFwtLsn+JTPbmTE=
 
 Name: system/lib/libOpenSLES.so
 SHA1-Digest: ndgTX+0mhDOtNFqA6kXFf3SyG6M=
@@ -761,11 +764,11 @@ SHA1-Digest: ElddjFiKcrJ4Rv10j5HqlkBbTwY=
 Name: system/bin/qemu-props
 SHA1-Digest: Szaq32zcUxMVWoxxJUj6Ye6hGJY=
 
-Name: system/lib/libdl.so
-SHA1-Digest: rs6INPiY+B+vJjuKaQM4ESMBBVg=
-
 Name: system/usr/srec/config/en.us/models/generic.swiarb
 SHA1-Digest: QGzUh5WkfKQRmuaI+sJtXBZrEFg=
+
+Name: system/lib/libdl.so
+SHA1-Digest: rs6INPiY+B+vJjuKaQM4ESMBBVg=
 
 Name: system/bin/uptime
 SHA1-Digest: XERA8Uv1mvVQFLRt6aDPu9MKWYE=
@@ -808,6 +811,9 @@ SHA1-Digest: mhMkqldOqqgxBY7AXn8/8dTqxW0=
 
 Name: system/bin/date
 SHA1-Digest: XERA8Uv1mvVQFLRt6aDPu9MKWYE=
+
+Name: system/lib/liba2dp.so
+SHA1-Digest: w65Cioh/4AhFgeobSaN4JPPsSfk=
 
 Name: system/fonts/DroidSansHebrew.ttf
 SHA1-Digest: mcWqA0yUQ2dfjZFcQNye7hUNIIM=
@@ -1068,7 +1074,7 @@ Name: system/lib/libGLESv2.so
 SHA1-Digest: 0gGCkQ6IH9W7RX60tsh2cz3np8U=
 
 Name: system/build.prop
-SHA1-Digest: eYGVYrmGpQxmduzZSYI8yeZP1zg=
+SHA1-Digest: 658xSpuLW3AUpq5D7ysu0xc3dbI=
 
 Name: system/usr/keylayout/heroc-keypad.kl
 SHA1-Digest: LaYoQfVn1N+eaILfqTARIM87M2g=
@@ -1137,7 +1143,7 @@ Name: system/xbin/dexdump
 SHA1-Digest: kps1EmVSxicWNJmuH5nQp+Y4WW0=
 
 Name: system/lib/libaudioflinger.so
-SHA1-Digest: 6wQKHfUrxyLtBo0TIzGnOp0WFPQ=
+SHA1-Digest: PrkXzKtYRpnP+r2xUuaS1i0ngI4=
 
 Name: system/bin/rtp_test
 SHA1-Digest: IMTqisEWtN2YqP6EZUCBGHuaaQ0=
@@ -1171,6 +1177,9 @@ SHA1-Digest: FwQSsd2X8x6cHrcRdpGU7WAMw4E=
 
 Name: system/lib/egl/libGLES_android.so
 SHA1-Digest: Z89NN5IKo7RRT5M6LCD3sr2j7Ww=
+
+Name: system/lib/libhtc_acoustic.so
+SHA1-Digest: mne7U+LQcv8RAXO2voOM1oXnRrA=
 
 Name: system/lib/libstagefright_avc_common.so
 SHA1-Digest: MAGy0IgcmXV2nr46DrB2ddemiIQ=
@@ -1228,6 +1237,9 @@ SHA1-Digest: 8bfCp6Wa7ZeRw4+HPqJL+HNL67Q=
 
 Name: system/framework/android.policy.jar
 SHA1-Digest: OzVdb+OvERedTk4mFy3EyDblT1o=
+
+Name: system/lib/libaudiopolicy.so
+SHA1-Digest: ZbdIqLLdBw6IGnd66YP2u14aq4M=
 
 Name: system/bin/qemud
 SHA1-Digest: LNmIQTWTjoSV2FGX6rspS+PLUjw=

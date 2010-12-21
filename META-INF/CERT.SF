@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: CPGG3aaCoGhHjmvSIGBA4pocxaI=
+SHA1-Digest-Manifest: Emzk1zmNzaAqhxo9DG9sCihbFl4=
 
 Name: system/tts/lang_pico/es-ES_ta.bin
 SHA1-Digest: iomlWBJnyeAmuhpPJfKYJkKDUEw=
@@ -39,7 +39,7 @@ Name: sdcard/media/picture/wallpaper/thekraken1.jpg
 SHA1-Digest: QcvHXtDa6/JveXpCP/tnSNNDYVU=
 
 Name: system/lib/libaudioeffect_jni.so
-SHA1-Digest: VWeu1WHQQ7bvx9n4p2r96BU0hZo=
+SHA1-Digest: skDM4MfiFILJtbeuipRqBJr1Zzw=
 
 Name: system/app/Browser.apk
 SHA1-Digest: FKJyMfzcv6IOyGPbkFUqAqdP4eg=
@@ -49,6 +49,9 @@ SHA1-Digest: /P8EJEG4INF9ZXPDGxjMjlklxwg=
 
 Name: system/lib/hw/gralloc.msm7k.so
 SHA1-Digest: Y4PNZHf2Beyv+1vnmPaP4z31LzY=
+
+Name: system/lib/libaudio.so
+SHA1-Digest: wrzQ5PrdCDTsS+Ug8hY/XJ6cjJ8=
 
 Name: system/lib/libOpenSLES.so
 SHA1-Digest: 2lrU9Enx8sUsotF3kyq1kHjjWNE=
@@ -762,11 +765,11 @@ SHA1-Digest: c9F4YfQeh3Cp6C7pCIinBlNRD+g=
 Name: system/bin/qemu-props
 SHA1-Digest: g58bmTg+ETttK225ashg7wm1L5o=
 
-Name: system/lib/libdl.so
-SHA1-Digest: gAf2ypM4VYQt+Cj6dvYbQ3IZPlo=
-
 Name: system/usr/srec/config/en.us/models/generic.swiarb
 SHA1-Digest: ji4QTXKau8N4AjzzU5UsqY8aQ7c=
+
+Name: system/lib/libdl.so
+SHA1-Digest: gAf2ypM4VYQt+Cj6dvYbQ3IZPlo=
 
 Name: system/bin/uptime
 SHA1-Digest: e79CkIKRnn7Sa5A8lc9SRMgqULM=
@@ -809,6 +812,9 @@ SHA1-Digest: vjHbeSL2L76/8ilu69yrZxFEFII=
 
 Name: system/bin/date
 SHA1-Digest: ZEgzVktUfaopgLw3qhRDAIHTU5U=
+
+Name: system/lib/liba2dp.so
+SHA1-Digest: j9fhKW7qLlMBokFafiNoF8T8tcs=
 
 Name: system/fonts/DroidSansHebrew.ttf
 SHA1-Digest: oZYTDxpadLHIz+Jz5jtcpTE1bbM=
@@ -1069,7 +1075,7 @@ Name: system/lib/libGLESv2.so
 SHA1-Digest: erVJbYBxnfKC+r2f0RWxfT77ZZg=
 
 Name: system/build.prop
-SHA1-Digest: t9bQFGdAgHcs6QSu3ombYpURDFo=
+SHA1-Digest: 4C2XoQcRO9OD6lRqYybdMbQN3WI=
 
 Name: system/usr/keylayout/heroc-keypad.kl
 SHA1-Digest: TjxfNxH1gGLDzFFJSQMH5rEOv8U=
@@ -1138,7 +1144,7 @@ Name: system/xbin/dexdump
 SHA1-Digest: RODXQddLY6pvfQ4p9VgtiYaGX70=
 
 Name: system/lib/libaudioflinger.so
-SHA1-Digest: /DWc4/jQ6IPzILTYLYY9PPAyINQ=
+SHA1-Digest: V252f4jn2OZR0DVmvpm0lluQ98Q=
 
 Name: system/bin/rtp_test
 SHA1-Digest: ZJb+UCkXeCPvQeH+8zqKHbccCVY=
@@ -1152,11 +1158,11 @@ SHA1-Digest: goC0mpA63s4DtAZP2Ep3A/LtCdo=
 Name: system/app/ContactsProvider.apk
 SHA1-Digest: tkBCA3VhUlX18fzk0wO1eccYD48=
 
-Name: system/media/audio/ui/camera_click.ogg
-SHA1-Digest: V7fhbEaJIXo2h/p1lguCCaLW6qk=
-
 Name: system/usr/keylayout/desirec-keypad.kl
 SHA1-Digest: cMzmpm0Ax2DMu5DGR+iHtJ/aIBo=
+
+Name: system/media/audio/ui/camera_click.ogg
+SHA1-Digest: V7fhbEaJIXo2h/p1lguCCaLW6qk=
 
 Name: system/lib/libmock_ril.so
 SHA1-Digest: 9F9U16w/AC2muimVDtLucN8EaSo=
@@ -1175,6 +1181,9 @@ SHA1-Digest: G6zc+m1peJpKAZGpXoFGJeYfwF0=
 
 Name: system/lib/libstagefright_avc_common.so
 SHA1-Digest: OpWnjyzXwAI0ug24V84+V7QEeO8=
+
+Name: system/lib/libhtc_acoustic.so
+SHA1-Digest: BMxMiD4B+l6awreKYyvx2BtYBdQ=
 
 Name: system/xbin/ssh
 SHA1-Digest: Ijcc3fKw3r7Y8vCkkbE1r6r7W0o=
@@ -1229,6 +1238,9 @@ SHA1-Digest: 10Cn1zlckM1zXuV/7HyDiA9l0v8=
 
 Name: system/app/ApplicationsProvider.apk
 SHA1-Digest: GokIaEf/YeN67X7s6ZH5STwCkq4=
+
+Name: system/lib/libaudiopolicy.so
+SHA1-Digest: RvR8hELKBa7D3U4b/xNnAFXjXIU=
 
 Name: system/bin/qemud
 SHA1-Digest: +GHe6hk3hhEf8JxdEXqlB7oTfmE=
