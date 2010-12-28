@@ -57,6 +57,7 @@
 3080 boot_progress_pms_data_scan_start (time|2|3)
 3090 boot_progress_pms_scan_end (time|2|3)
 3100 boot_progress_pms_ready (time|2|3)
+4000 calendar_upgrade_receiver (time|2|3)
 4100 contacts_upgrade_receiver (time|2|3)
 20001 dvm_gc_info (custom|2),(custom|2),(custom|2),(custom|2)
 20002 dvm_gc_madvise_info (total|1|2),(zygote|1|2)
